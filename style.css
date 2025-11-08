@@ -1,0 +1,121 @@
+
+#container {
+    /*font-family: "Luckiest Guy", cursive;*/
+    font-family: "Bungee Shade", cursive;
+    background-image: url("images/animetown.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1px;
+    border-radius: 15px 15px 0 0;
+}
+
+h1 {
+    color: #ffff66;
+    text-shadow: 0 0 2px #ffe566;
+    font-weight: bold;
+    padding: 6px;
+    border: 4px solid #b3b347;
+    border-radius: 10px;
+    background-color: #d6d58b;
+}
+
+#greet {
+    color: #ffff66;
+    text-shadow: 0 0 1px #ffe566;
+    font-weight: lighter;
+    padding: 6px;
+    border: 5px solid #b3b347;
+    border-radius: 10px;
+    background-color: #d6d58b;
+    font-size: 15px;
+}
+
+.activities {
+    background-color: rgba(163, 149, 147, 0.27);
+    padding: 10px;
+}
+
+.information {
+    font-family: "Footlight MT Light", cursive;
+    font-style: normal;
+    text-align: center;
+    margin: 13px auto 0 auto;
+    font-size: 20px;
+}
+
+.places {
+    font-family: "Footlight MT Light", cursive;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#park, #station, #street {
+    width: 180px;
+    border: none;
+    border-radius: 90px;
+}
+
+h4, p {
+    margin: 8px 50px;
+}
+
+#profile {
+    width: 180px;
+    border: 1px dotted #0acbee;
+    border-radius: 5%;
+    height: 280px;
+    background-position: bottom;
+}
+
+.card {
+    width: 600px;
+    border: 1px dotted #0D191F;
+    border-radius: 30px;
+    color: #343B3A;
+    background-color: #EEEED9;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: 25px auto;
+    border-bottom: 5px solid #ABAD90;
+    border-left: 3px solid #ABAD90;
+}
+
+.info {
+    font-family: "Cascadia Mono", cursive;
+    width: 400px;
+
+}
+
+.card-head {
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: normal;
+    color: #ffffe3;
+    text-shadow: 0 1px 2px #57552e;
+    -webkit-text-stroke: 0.1px #ffffe3;
+    margin: 20px auto;
+}
+
+.card-body {
+    font-style: italic;
+    color: #bdb96a;
+    text-shadow: 0 0 1px #808034;
+}
+.card-foot {
+    font-style: oblique;
+    font-weight: bold;
+    color: #808034;
+    margin: 12px auto;
+}
