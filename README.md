@@ -8,7 +8,7 @@ Welcome to **Aozora Town** — an anime-inspired virtual town website.
 - Built using HTML, CSS, and love for anime.
 
 ### 🚀 How to View
-Visit the live version on Netlify: [https://delicate-sunflower-537c94.netlify.app/](https://delicate-sunflower-537c94.netlify.app/)
+Visit the live version on Netlify: https://hometown-guide-axifica-studios.netlify.app/
 
 ### 👨‍💻 Author
 Created by **nnoxxy21**
